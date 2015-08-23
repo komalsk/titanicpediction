@@ -46,7 +46,7 @@ Links
 Application: https://komalkukreja.shinyapps.io/titanicprediction
 
 
-Source Code:
+Source Code: https://github.com/komalsk/titanicpediction
 
 
 
